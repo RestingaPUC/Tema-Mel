@@ -6,6 +6,13 @@
   "engines": {
     "vscode": "^1.71.0"
   },
+  "author":{
+    "name": "Alberto"
+  },
+  "repository": {
+    "url": "https://github.com/RestingaPUC/Tema-Mel.git",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
