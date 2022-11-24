@@ -1,7 +1,7 @@
 {
-  "name": "mel_theme",
-  "displayName": "Mel",
-  "description": "Melissa",
+  "name": "nicetheme",
+  "displayName": "Nice",
+  "description": "Nice",
   "version": "0.0.1",
   "publisher": "Alberto",
   "engines": {
@@ -10,6 +10,7 @@
   "author":{
     "name": "Alberto"
   },
+  "icon": "image/IMG-20220822-WA0003.jpg",
   "repository": {
     "url": "https://github.com/RestingaPUC/Tema-Mel.git",
     "type": "git"
@@ -20,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mel",
+        "label": "nice",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mel-color-theme.json"
+        "path": "./themes/nice-color-theme.json"
       }
     ]
   }
